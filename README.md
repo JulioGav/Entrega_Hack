@@ -1,6 +1,6 @@
 [Repo-hack-1](https://github.com/JulioGav/git_h_1)
 <br>
-[Repo-hack-2](https://github.com/JulioGav/git_h_2)
+[Repo-hack-2](https://github.com/JulioGav/JulioGav-git_h_2)
 <br>
 [Repo-hack-3](https://github.com/JulioGav/git_h_3)
 <br>
